@@ -4,9 +4,13 @@
 
 A delightful Python timer that helps you crush productivity goals using the classic Pomodoro Technique.
 
-[![Python 3.7+](https://img.shields.://www.python.org/downloaT](https://img.shields.io/belcome](https://img.shields.io/badge/PRs-welcome-brighcom/MRareJimmyOfficial/pomoFomoFocus?
+[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/MRareJimmyOfficial/pomoFocus/pulls)
 
-Created with ❤️ by [Mrarejimmy](https://github.com/MRareJimmyOfficial)[1], this isn't your grandma's kitchen timer! We've added:
+## Why pomoFocus?
+
+Created with ❤️ by [Mrarejimmy](https://github.com/MRareJimmyOfficial), this isn't your grandma's kitchen timer! We've added:
 
 - **Sleek Design**: Rounded corners smoother than a fresh jar of tomato sauce.
 - **Task Tracking**: Because remembering 10,000 todos is _so_ last season.
@@ -65,18 +69,3 @@ Created with passion by [Mrarejimmy](https://github.com/MRareJimmyOfficial)[1] -
 ---
 
 **Note for future enhancement**: Consider adding screenshots of the app interface when ready. Images of productivity tools like timers, task management UIs, or Pomodoro-themed visuals would enhance this README. You can add them using relative paths once uploaded to the repository or via image hosting services.
-
-Citations:
-[1] https://github.com/MRareJimmyOfficial
-[2] https://create.vista.com/photos/productivity-tools/
-[3] https://cloudinary.com/guides/web-performance/4-ways-to-add-images-to-github-readme-1-bonus-method
-[4] https://www.freepik.com/free-photos-vectors/productivity-tools
-[5] https://github.com/matiassingers/awesome-readme
-[6] https://www.freepik.com/free-photos-vectors/productivity-software
-[7] https://github.com/adamspierer/time_stacker
-[8] https://github.com/Mahesh-Vard/Pomodoro-Timer
-[9] https://github.com/NurNils/pomodoro-timer
-
----
-
-Answer from Perplexity: pplx.ai/share
