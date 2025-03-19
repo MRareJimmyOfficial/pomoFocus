@@ -1,10 +1,16 @@
 ```markdown
-# 🍅 Pomodoro Power Pro [by Mrarejimmy]
+# 🍅 pomoFocus [by Mrarejimmy]
 
 _**Work smart, tomato harder!**_  
 A delightful Python timer that helps you crush productivity goals using the classic Pomodoro Technique - now with modern flair!
 
-## 🌟 Why Tomato Time?
+[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/MRareJimmyOfficial/pomoFocus/pulls)
+
+(Main App UI)
+
+## 🌟 Why pomoFocus?
 
 Created with ❤️ by [Mrarejimmy](https://github.com/MRareJimmyOfficial), this isn't your grandma's kitchen timer! We've added:
 
@@ -18,8 +24,8 @@ Created with ❤️ by [Mrarejimmy](https://github.com/MRareJimmyOfficial), this
 1. **Install** (brew some coffee while you wait ☕):
 ```
 
-git clone https://github.com/MRareJimmyOfficial/pomoFocus
-cd pomodoro-power-pro
+git clone https://github.com/MRareJimmyOfficial/pomoFocus.git
+cd pomoFocus
 pip install -r requirements.txt
 
 ```
@@ -35,7 +41,11 @@ python pomodoro_timer.py
 
 ## 🔧 Customize Your Flow
 
-![Settings Preview]
+
+
+
+(Customize settings)
+
 
 _Tweak to your tomato-loving heart's content:_
 - 🕑 Session lengths (25m standard - but you do you!)
@@ -47,16 +57,16 @@ _Tweak to your tomato-loving heart's content:_
 _**Open-source, open-arms!**_ Contribute your juiciest ideas:
 
 🍴 **Fork** it
-🌱 **Branch** out
+🌱 **Branch** out (`git checkout -b feature/your-amazing-feature`)
 💡 **Code** your magic
-🎁 **PR** like Santa
+🎁 **PR** like Santa (`git push origin feature/your-amazing-feature`)
 
 First time? Check our [Good First Issues](https://github.com/MRareJimmyOfficial/pomoFocus/issues)!
 
 ## 📜 License
 
-MIT Licensed - because great tomatoes should be shared!
-_Created with 🍅 passion by Mrarejimmy - special thanks to Francesco Cirillo for inventing productivity while cooking pasta!_
+MIT Licensed - because great tomatoes should be shared! 🍅
+_Created with passion by [Mrarejimmy](https://github.com/MRareJimmyOfficial) - special thanks to Francesco Cirillo for inventing productivity while cooking pasta!_
 
 ---
 
