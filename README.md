@@ -64,7 +64,7 @@ First time? Check our [Good First Issues](https://github.com/MRareJimmyOfficial/
 
 MIT Licensed.
 
-Created with passion by [Mrarejimmy](https://github.com/MRareJimmyOfficial)[1] - special thanks to Francesco Cirillo for inventing the Pomodoro Technique!
+Created with passion by [Mrarejimmy](https://github.com/MRareJimmyOfficial) - special thanks to Francesco Cirillo for inventing the Pomodoro Technique!
 
 ---
 
