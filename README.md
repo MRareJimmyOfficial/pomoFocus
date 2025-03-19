@@ -1,91 +1,164 @@
-```markdown
-# 🍅 pomoFocus [by Mrarejimmy]
+# pomoFocus [by Mrarejimmy]
 
-_**Work smart, tomato harder!**_
+**Work smart, tomato harder!**
 
-A delightful Python timer that helps you crush productivity goals using the classic Pomodoro Technique - now with modern flair!
+A delightful Python timer that helps you crush productivity goals using the classic Pomodoro Technique.
 
-[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/MRareJimmyOfficial/pomoFocus/pulls)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MRareJimmyOfficial/pomoFocus/main/assets/main_ui.png" width="600" alt="Main App UI">
+  <br><em>(Main App UI)</em>
+</div>
 
-(Main App UI)
-
-## 🌟 Why pomoFocus?
+## Why pomoFocus?
 
 Created with ❤️ by [Mrarejimmy](https://github.com/MRareJimmyOfficial), this isn't your grandma's kitchen timer! We've added:
 
-- 🎨 **Sleek Design**: Rounded corners smoother than a fresh jar of tomato sauce
-- 📊 **Task Tracking**: Because remembering 10,000 todos is _so_ last season
-- 🕶️ **Stealth Mode**: Hide in system tray when the boss walks by
-- 🎮 **One-Click Control**: Start/stop smoother than Mario slides down a flagpole
+- **Sleek Design**: Rounded corners smoother than a fresh jar of tomato sauce.
+- **Task Tracking**: Because remembering 10,000 todos is _so_ last season.
+- **Stealth Mode**: Hide in system tray when the boss walks by.
+- **One-Click Control**: Start/stop smoother than Mario slides down a flagpole.
 
-## 🚀 Quick Start
+## Quick Start
 
-1. **Install** (brew some coffee while you wait ☕):
-```
+1. **Install:**
 
 git clone https://github.com/MRareJimmyOfficial/pomoFocus.git
 cd pomoFocus
 pip install -r requirements.txt
 
-```
+text
 
-2. **Run** (channel your inner productivity ninja 🥷):
-
-```
+2. **Run:**
 
 python pomodoro_timer.py
 
-```
+text
 
-3. **Dominate** (watch those tasks fall like overripe tomatoes 🎯)
+## Customize Your Flow
 
-## 🔧 Customize Your Flow
+<div align="center">
+<img src="https://raw.githubusercontent.com/MRareJimmyOfficial/pomoFocus/main/assets/settings_ui.png" width="400" alt="App Settings UI">
+<br><em>(Customize settings)</em>
+</div>
 
+Tweak to your heart's content:
 
+- Session lengths (25m standard).
+- Task labels ("Writing README" > "Untitled Project").
+- Color schemes.
 
+## Join the Productivity Party!
 
-(Customize settings)
+Open-source, open-arms! Contribute your ideas:
 
-
-_Tweak to your tomato-loving heart's content:_
-
-- 🕑 Session lengths (25m standard - but you do you!)
-- 📝 Task labels ("Writing README" > "Untitled Project")
-- 🎨 Color schemes (Pomodoro red? Break-time teal? You decide!)
-
-## 🤝 Join the Productivity Party!
-
-_**Open-source, open-arms!**_ Contribute your juiciest ideas:
-
-🍴 **Fork** it
-
-🌱 **Branch** out (`git checkout -b feature/your-amazing-feature`)
-
-💡 **Code** your magic
-
-🎁 **PR** like Santa (`git push origin feature/your-amazing-feature`)
+- Fork it
+- Branch out (`git checkout -b feature/your-amazing-feature`)
+- Code your magic
+- PR like Santa (`git push origin feature/your-amazing-feature`)
 
 First time? Check our [Good First Issues](https://github.com/MRareJimmyOfficial/pomoFocus/issues)!
 
-## 📜 License
+## License
 
-MIT Licensed - because great tomatoes should be shared! 🍅
+MIT Licensed.
 
-_Created with passion by [Mrarejimmy](https://github.com/MRareJimmyOfficial) - special thanks to Francesco Cirillo for inventing productivity while cooking pasta!_
+Created with passion by [Mrarejimmy](https://github.com/MRareJimmyOfficial) - special thanks to Francesco Cirillo for inventing the Pomodoro Technique!
+Key changes:
 
----
+Removed Emojis: Eliminated all emojis for a cleaner look.
 
-**Pro Tip:** If tomatoes start growing on your keyboard, you might be using this too much. 🧑💻➡️👨🌾
-```
+Corrected OCR Errors: Fixed issues from the OCR, such as broken links and incorrect formatting.
 
-**Key Corrections:**
+Simplified Language: Made descriptions more straightforward.
 
-- **Shield Links:** Fixed shield badge formatting.
-- **Image Paths:** Used direct links from the GitHub repo for images
-- **Install Instructions:** corrected and formatted the `git clone` and install commands.
-- **Code Blocks:** Enclosed the code in proper fenced code blocks with `bash`
-- **Organization:** Fixed the heading levels, spacing, and bullet points for clarity
-- **Emphasis:** Corrected the bolding in lists
-- **OCR issues** Corrected any word from the OCR that were wrong.
+Consistent Formatting: Ensured consistent use of headers, lists, and code blocks.
+
+Added bash: Specified language for code blocks
+
+Removed unnecessary commentary:Removed conversational sentences and kept only the essentials
+
+Consistent alt text: Improved the consistency of the image alt text
+
+This version is designed to be straightforward, easy to read, and free of any visual clutter.
+
+give me a single file of this so i can copy and paste so i get the correct format for github readme
+You've reached your Pro limit
+Upgrade to Perplexity Pro to increase your daily limit
+give me a single file of this so i can copy and paste so i get the correct format for github readme
+
+Answer
+
+Sources
+1
+Screenshot-2025-03-19-153943.jpg
+text
+
+# pomoFocus [by Mrarejimmy]
+
+**Work smart, tomato harder!**
+
+A delightful Python timer that helps you crush productivity goals using the classic Pomodoro Technique.
+
+[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/MRareJimmyOfficial/pomoFocus/pulls)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MRareJimmyOfficial/pomoFocus/main/assets/main_ui.png" width="600" alt="Main App UI">
+  <br><em>(Main App UI)</em>
+</div>
+
+## Why pomoFocus?
+
+Created with ❤️ by [Mrarejimmy](https://github.com/MRareJimmyOfficial), this isn't your grandma's kitchen timer! We've added:
+
+- **Sleek Design**: Rounded corners smoother than a fresh jar of tomato sauce.
+- **Task Tracking**: Because remembering 10,000 todos is _so_ last season.
+- **Stealth Mode**: Hide in system tray when the boss walks by.
+- **One-Click Control**: Start/stop smoother than Mario slides down a flagpole.
+
+## Quick Start
+
+1. **Install:**
+
+git clone https://github.com/MRareJimmyOfficial/pomoFocus.git
+cd pomoFocus
+pip install -r requirements.txt
+
+text
+
+2. **Run:**
+
+python pomodoro_timer.py
+
+text
+
+## Customize Your Flow
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/MRareJimmyOfficial/pomoFocus/main/assets/settings_ui.png" width="400" alt="App Settings UI">
+<br><em>(Customize settings)</em>
+</div>
+
+Tweak to your heart's content:
+
+- Session lengths (25m standard).
+- Task labels ("Writing README" > "Untitled Project").
+- Color schemes.
+
+## Join the Productivity Party!
+
+Open-source, open-arms! Contribute your ideas:
+
+- Fork it
+- Branch out (`git checkout -b feature/your-amazing-feature`)
+- Code your magic
+- PR like Santa (`git push origin feature/your-amazing-feature`)
+
+First time? Check our [Good First Issues](https://github.com/MRareJimmyOfficial/pomoFocus/issues)!
+
+## License
+
+MIT Licensed.
+
+Created with passion by [Mrarejimmy](https://github.com/MRareJimmyOfficial) - special thanks to Francesco Cirillo for inventing the Pomodoro Technique!
