@@ -72,10 +72,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 We hope this Pomodoro Timer helps boost your productivity! If you encounter any issues or have suggestions for improvements, please open an issue or contribute to the project. Happy focusing!
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/42034810/7df59466-ad86-4adf-b6b3-10a9eff9848f/paste.txt
-
----
-
-Answer from Perplexity: pplx.ai/share
